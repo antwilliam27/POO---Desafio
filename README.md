@@ -1,4 +1,4 @@
 # POO---Desafio
 Modelagem e Diagramação de um Componente iPhone
-[poo---desafio.pdf](https://github.com/user-attachments/files/16134299/poo---desafio.pdf)
-![Captura de tela 2024-07-08 173700](https://github.com/antwilliam27/POO---Desafio/assets/168022623/de635c1e-420c-4d77-b17b-a036e8966eea)
+
+![Captura de tela 2024-07-08 174027](https://github.com/antwilliam27/POO---Desafio/assets/168022623/836cb5c8-f215-43e9-9435-a5edd9e3e1fb)
